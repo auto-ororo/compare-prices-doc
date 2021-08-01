@@ -1,6 +1,6 @@
 # プライバシーポリシー
 
-[title](google_play_future_graphic.png)
+![title](google_play_future_graphic.png)
 
 ## 利用者情報の取得
 
